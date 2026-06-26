@@ -1,5 +1,6 @@
+
 <div align="center">
-  <img src="https://media1.tenor.com/m/3tK5i2eOHu0AAAAC/f1.gif" width="100%" alt="F1 Racing">
+  <img src="https://media1.tenor.com/m/3tK5i2eOHu0AAAAC/f1.gif" width="40%" alt="F1 Racing">
   
   <h1>🏎️ Piloto Laurinha | Grid de Largada do Código</h1>
   <p><i>"Acelerando no aprendizado e dominando as pistas da tecnologia!"</i></p>
@@ -36,8 +37,8 @@ Para vencer uma corrida, o carro precisa estar bem montado. Estas são as ferram
 
 ## 📊 Estatísticas da Temporada (Telemetria do GitHub)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&bg_color=000000&title_color=E80020&icon_color=E80020&text_color=FFFFFF" alt="Status do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&bg_color=000000&title_color=E80020&icon_color=E80020&text_color=FFFFFF" alt="Linguagens Mais Usadas" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&bg_color=000000&title_color=E80020&icon_color=E80020&text_color=FFFFFF" alt="Status do GitHub" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&bg_color=000000&title_color=E80020&icon_color=E80020&text_color=FFFFFF" alt="Linguagens Mais Usadas" />
 </div>
 
 > ⚠️ *Nota: Substitua `SEU_USUARIO_AQUI` no código acima pelo seu nome de usuário do GitHub para os gráficos funcionarem!*
@@ -55,6 +56,6 @@ Teve alguma dúvida ou quer trocar uma ideia sobre códigos e Fórmula 1? Entre 
 <br>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/w-HFx0x_2BcAAAAC/kimi-antonelli.gif" width="70%" alt="Kimi Antonelli F1">
+  <img src="https://media1.tenor.com/m/w-HFx0x_2BcAAAAC/kimi-antonelli.gif" width="35%" alt="Kimi Antonelli F1">
   <p><i>"O trabalho em equipe nos boxes é o que faz o carro cruzar a linha de chegada em primeiro lugar!"</i></p>
 </div>
