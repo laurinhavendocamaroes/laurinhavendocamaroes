@@ -1,6 +1,6 @@
-
 <div align="center">
-  <img src="https://media1.tenor.com/m/3tK5i2eOHu0AAAAC/f1.gif" width="40%" alt="F1 Racing">
+  <img src="https://media1.tenor.com/m/3tK5i2eOHu0AAAAC/f1.gif" width="35%" alt="F1 Racing">
+  <img src="https://media1.tenor.com/m/w-HFx0x_2BcAAAAC/kimi-antonelli.gif" width="35%" alt="Kimi Antonelli F1">
   
   <h1>🏎️ Piloto Laurinha | Grid de Largada do Código</h1>
   <p><i>"Acelerando no aprendizado e dominando as pistas da tecnologia!"</i></p>
@@ -56,6 +56,5 @@ Teve alguma dúvida ou quer trocar uma ideia sobre códigos e Fórmula 1? Entre 
 <br>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/w-HFx0x_2BcAAAAC/kimi-antonelli.gif" width="35%" alt="Kimi Antonelli F1">
   <p><i>"O trabalho em equipe nos boxes é o que faz o carro cruzar a linha de chegada em primeiro lugar!"</i></p>
 </div>
